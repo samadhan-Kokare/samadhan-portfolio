@@ -12,7 +12,7 @@ export default function Experience() {
         <SectionHeading
           eyebrow="Experience"
           title="Where I've built"
-          description="3.9+ years across an enterprise IT services company and a product startup, shipping recruiter-facing dashboards and large-scale React applications."
+          description="4+ years across an enterprise IT services company and a product startup, shipping recruiter-facing dashboards and large-scale React applications."
         />
 
         <div className="space-y-8">
