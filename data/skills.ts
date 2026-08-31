@@ -24,7 +24,7 @@ export const skillGroups = [
       'Dynamic Routing',
       'Layouts',
       'Metadata API',
-      'Image Optimization',
+      'Image Optimization'
     ]
   },
   {
