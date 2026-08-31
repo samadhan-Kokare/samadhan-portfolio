@@ -35,15 +35,15 @@ export const skillGroups = [
       'React Query (TanStack Query)',
     ],
   },
-{
-  id: 'forms',
-  label: 'Forms & Validation',
-  skills: [
-    'Formik',
-    'Yup',
-    'React Hook Form',
-  ],
-},
+  {
+    id: 'forms',
+    label: 'Forms & Validation',
+    skills: [
+      'Formik',
+      'Yup',
+      'React Hook Form',
+    ],
+  },
   {
     id: 'ui',
     label: 'UI Libraries & Styling',
