@@ -10,9 +10,9 @@ export default function ProjectSection() {
     <section id="project" className="section border-t border-line bg-panel">
       <div className="container-content">
         <SectionHeading
-          eyebrow="Key Project"
-          title="ATS candidate-pipeline & HR dashboards"
-          description="The core product work referenced above, shown in more depth."
+          eyebrow="Selected Work"
+          title="Projects I've built"
+          description="A closer look at the product work shipped across my roles — dashboards, pipelines, and platforms built end-to-end."
         />
         <div className="space-y-6">
           {projects.map((p, i) => (

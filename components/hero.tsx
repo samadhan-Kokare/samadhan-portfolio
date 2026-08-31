@@ -90,7 +90,7 @@ export default function Hero() {
                 whileHover={{
                   x: 8,
                   y: -4,
-                  scale: 1.05,
+                  scale: 0.9,
                   color: 'hsl(var(--accent))',
                   transition: { type: 'spring', stiffness: 220, damping: 18 },
                 }}
